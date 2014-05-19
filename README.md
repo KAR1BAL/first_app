@@ -26,3 +26,8 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+# Ruby on Rails Tutorial: first applicaiton
+
+This is the first application for
+[*Ruby on Rails Tutorial: learn Rails by KAR1BAL*]  (http://railstutorials.org/) by [Michael Hartl]  (http://michael.com/) .
